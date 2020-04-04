@@ -1,0 +1,7 @@
+fun bar(x) {
+    var x = 1;
+    var x = 3;
+}
+fun abs() {}
+fun abs(a) {}
+fun abs(b) {}

@@ -1,0 +1,29 @@
+fun test() {
+    var x = 1;
+    bar(x);
+
+    var b;
+    b = true;
+    if (12) {
+        bar(x);
+    }
+    if (z) {
+
+    }
+    if (bar(x)) {
+    }
+    if (foo()) {
+        bar(x);
+    }
+    else {
+
+    }
+}
+
+fun bar(x) {
+
+}
+
+fun foo() {
+    return;
+}

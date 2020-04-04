@@ -1,0 +1,4 @@
+fun bar(x) {
+    y = 1;
+    var x = true;
+}

@@ -1,0 +1,3 @@
+ERROR: line 2: Right-side assignment 'b' is invalid
+ERROR: line 6: Right-side assignment 'bar' is invalid
+ERROR: line 7: Right-side assignment 'x' is invalid

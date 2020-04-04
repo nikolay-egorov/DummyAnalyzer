@@ -1,0 +1,2 @@
+ERROR: line 13: Condition 'bar' is not suited for a conditional expression
+ERROR: line 19: Condition 'foo' is not suited for a conditional expression

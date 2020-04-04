@@ -1,0 +1,4 @@
+1. before init
+2. recursive access
+3. check for return match // var x = {x -> return x}
+4. double declaration (var x; var x)

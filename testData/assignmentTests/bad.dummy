@@ -1,0 +1,14 @@
+fun test() {
+    var x = b;
+    bar(x);
+
+    var b;
+    b = bar();
+    b = x;
+
+}
+
+fun bar() {
+    return;
+}
+

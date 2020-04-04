@@ -1,0 +1,15 @@
+fun test() {
+    var x = 1;
+    bar(x);
+
+    var b;
+    b = true;
+    if (12) {
+        bar(x);
+    }
+    if (b) {
+        bar(x);
+    }
+}
+fun bar(x) {
+}

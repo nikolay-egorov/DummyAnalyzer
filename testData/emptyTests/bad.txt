@@ -1,0 +1,3 @@
+ERROR: line 2: Unnecessary empty block found
+ERROR: line 7: Unnecessary empty block found
+

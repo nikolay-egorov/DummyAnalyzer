@@ -1,0 +1,1 @@
+ERROR: line 3: Function 'bar' call may result in an infinite loop

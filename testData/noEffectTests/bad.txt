@@ -1,0 +1,2 @@
+ERROR: line 3: Function call 'bar' seems to have no effect
+ERROR: line 4: Function call 'bar' seems to have no effect

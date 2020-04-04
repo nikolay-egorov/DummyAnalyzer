@@ -1,0 +1,2 @@
+ERROR: line 7: Function 'abs' was already declared on line 6
+ERROR: line 3: Variable 'x' was already declared on line 2

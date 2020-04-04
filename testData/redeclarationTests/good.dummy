@@ -1,0 +1,6 @@
+fun voo(x) {
+    var x = 1;
+}
+fun voo() {
+    var y = 1;
+}

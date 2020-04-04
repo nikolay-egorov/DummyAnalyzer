@@ -1,0 +1,6 @@
+fun bar(x) {
+    zoo(x);
+}
+fun zoo(x, y) {
+    var f = x;
+}
